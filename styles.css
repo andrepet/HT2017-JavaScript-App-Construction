@@ -1,0 +1,19 @@
+.container {
+    width: 700px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: row;
+    background-color: moccasin;
+    padding: 10px;
+}
+
+img.poster {
+    max-width: 300px;
+    max-height: 400px;
+    /* margin: 0 auto; */
+}
+
+.infosection {
+    flex-grow: 1;
+    padding: 15px;
+}
